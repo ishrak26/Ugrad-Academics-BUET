@@ -66,6 +66,7 @@ This repository links all my academic assignments and projects organized by leve
 ### Term 2
 
 - [CSE 462: Algorithm Engineering Sessional Project](https://github.com/1905046-NiazRahman/CSE462-Project)
+- [CSE 471: Machine Learning Assignment](https://github.com/ishrak26/CSE-471-Machine-Learning-Assignment)
 - [CSE 472: Machine Learning Sessional](https://github.com/ishrak26/CSE-472-Machine-Learning-Sessional)
 - [CSE 472: Machine Learning Sessional Project](https://github.com/ishrak26/CSE-472-Machine-Learning-Sessional-Project)
 
